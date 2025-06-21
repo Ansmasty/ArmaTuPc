@@ -1,0 +1,80 @@
+{
+  "gabinetes": [
+    {
+      "nombre": "Corsair 4000D Airflow",
+      "precio": 120.0,
+      "consumo_watts": 0,
+      "dimensiones": [466, 230, 453],
+      "marca": "Corsair",
+      "volumen_interno": 45000000,
+      "tipo": "ATX"
+    },
+    {
+      "nombre": "Fractal Design Node 202",
+      "precio": 150.0,
+      "consumo_watts": 0,
+      "dimensiones": [377, 87, 330],
+      "marca": "Fractal Design",
+      "volumen_interno": 10500000,
+      "tipo": "Mini-ITX"
+    }
+  ],
+  "cpus": [
+    {
+      "nombre": "Intel Core i5-12400F",
+      "precio": 180.0,
+      "consumo_watts": 65,
+      "dimensiones": [37.5, 37.5, 7.5],
+      "marca": "Intel",
+      "socket": "LGA1700",
+      "cores": 6,
+      "frecuencia_base": 2.5,
+      "tdp": 65
+    },
+    {
+      "nombre": "AMD Ryzen 5 5600X",
+      "precio": 200.0,
+      "consumo_watts": 65,
+      "dimensiones": [40, 40, 7],
+      "marca": "AMD",
+      "socket": "AM4",
+      "cores": 6,
+      "frecuencia_base": 3.7,
+      "tdp": 65
+    }
+  ],
+  "gpus": [
+    {
+      "nombre": "NVIDIA RTX 3060",
+      "precio": 350.0,
+      "consumo_watts": 170,
+      "dimensiones": [242, 112, 40],
+      "marca": "NVIDIA",
+      "vram": 12,
+      "tdp": 170,
+      "conectores_power": ["8pin"]
+    },
+    {
+      "nombre": "AMD RX 6600 XT",
+      "precio": 320.0,
+      "consumo_watts": 160,
+      "dimensiones": [267, 120, 50],
+      "marca": "AMD",
+      "vram": 8,
+      "tdp": 160,
+      "conectores_power": ["8pin"]
+    }
+  ],
+  "fuentes": [
+    {
+      "nombre": "Corsair CV650",
+      "precio": 80.0,
+      "consumo_watts": 0,
+      "dimensiones": [150, 86, 140],
+      "marca": "Corsair",
+      "vatios_max": 650,
+      "eficiencia": 0.8,
+      "certificacion": "80+ Bronze"
+    }
+  ]
+}
