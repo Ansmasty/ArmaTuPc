@@ -1,0 +1,322 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Normalized PC Component Dataset Schema",
+  "description": "Schema para datos normalizados de componentes PC con valores y unidades separados",
+  "version": "1.0.0",
+  "type": "object",
+  "definitions": {
+    "dimension": {
+      "type": "object",
+      "description": "Dimensión física con valor numérico y unidad separados",
+      "properties": {
+        "value": {
+          "type": ["number", "null"],
+          "description": "Valor numérico de la dimensión"
+        },
+        "unit": {
+          "type": ["string", "null"],
+          "description": "Unidad de medida (mm, cm, inches, etc.)"
+        },
+        "raw_value": {
+          "type": ["string", "null"],
+          "description": "Valor original sin procesar"
+        }
+      },
+      "required": ["value", "unit", "raw_value"]
+    },
+    "fan_slots": {
+      "type": "object",
+      "description": "Slots de ventiladores con información de instalados/máximo",
+      "properties": {
+        "installed": {
+          "type": ["integer", "null"],
+          "description": "Número de ventiladores pre-instalados"
+        },
+        "maximum": {
+          "type": ["integer", "null"],
+          "description": "Número máximo de ventiladores soportados"
+        },
+        "raw_value": {
+          "type": ["string", "null"],
+          "description": "Valor original (formato: instalados/máximo)"
+        }
+      },
+      "required": ["installed", "maximum", "raw_value"]
+    },
+    "price": {
+      "type": "object",
+      "description": "Precio con valor y moneda separados",
+      "properties": {
+        "value": {
+          "type": ["number", "null"],
+          "description": "Valor numérico del precio"
+        },
+        "currency": {
+          "type": ["string", "null"],
+          "description": "Código de moneda (USD, EUR, etc.)"
+        },
+        "raw_value": {
+          "type": ["string", "null"],
+          "description": "Valor original del precio"
+        }
+      },
+      "required": ["value", "currency", "raw_value"]
+    }
+  },
+  "properties": {
+    "CaseData": {
+      "type": "array",
+      "description": "Datos normalizados de gabinetes/cases",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Nombre del producto"
+          },
+          "producer": {
+            "type": "string",
+            "description": "Fabricante del producto"
+          },
+          "mpn": {
+            "type": "string",
+            "description": "Número de parte del fabricante"
+          },
+          "ean": {
+            "type": "string",
+            "description": "Código de barras EAN"
+          },
+          "upc": {
+            "type": "string",
+            "description": "Código de barras UPC"
+          },
+          "dimensions": {
+            "type": "object",
+            "description": "Dimensiones físicas del gabinete",
+            "properties": {
+              "width": {
+                "$ref": "#/definitions/dimension"
+              },
+              "depth": {
+                "$ref": "#/definitions/dimension"
+              },
+              "height": {
+                "$ref": "#/definitions/dimension"
+              }
+            },
+            "required": ["width", "depth", "height"]
+          },
+          "compatibility": {
+            "type": "object",
+            "description": "Compatibilidad con otros componentes",
+            "properties": {
+              "motherboard": {
+                "type": "string",
+                "description": "Factor forma de motherboard soportado",
+                "enum": ["Mini-ITX", "Micro-ATX", "ATX", "E-ATX", "XL-ATX"]
+              },
+              "power_supply": {
+                "type": "string",
+                "description": "Factor forma de PSU soportado",
+                "enum": ["SFX", "ATX", "ATX12V"]
+              },
+              "supported_gpu_length": {
+                "$ref": "#/definitions/dimension"
+              },
+              "supported_cpu_cooler_height": {
+                "$ref": "#/definitions/dimension"
+              }
+            },
+            "required": ["motherboard", "power_supply", "supported_gpu_length", "supported_cpu_cooler_height"]
+          },
+          "fan_support": {
+            "type": "object",
+            "description": "Soporte de ventiladores por tamaño",
+            "properties": {
+              "80mm": {
+                "$ref": "#/definitions/fan_slots"
+              },
+              "120mm": {
+                "$ref": "#/definitions/fan_slots"
+              },
+              "140mm": {
+                "$ref": "#/definitions/fan_slots"
+              },
+              "200mm": {
+                "$ref": "#/definitions/fan_slots"
+              }
+            },
+            "required": ["80mm", "120mm", "140mm", "200mm"]
+          },
+          "radiator_support": {
+            "type": "object",
+            "description": "Soporte de radiadores por tamaño",
+            "properties": {
+              "120mm": {
+                "type": ["integer", "null"],
+                "description": "Cantidad de radiadores 120mm soportados"
+              },
+              "140mm": {
+                "type": ["integer", "null"],
+                "description": "Cantidad de radiadores 140mm soportados"
+              },
+              "240mm": {
+                "type": ["integer", "null"],
+                "description": "Cantidad de radiadores 240mm soportados"
+              },
+              "280mm": {
+                "type": ["integer", "null"],
+                "description": "Cantidad de radiadores 280mm soportados"
+              },
+              "360mm": {
+                "type": ["integer", "null"],
+                "description": "Cantidad de radiadores 360mm soportados"
+              }
+            },
+            "required": ["120mm", "140mm", "240mm", "280mm", "360mm"]
+          },
+          "storage_bays": {
+            "type": "object",
+            "description": "Bahías de almacenamiento disponibles",
+            "properties": {
+              "disk_2_5_inch": {
+                "type": ["integer", "null"],
+                "description": "Bahías para discos de 2.5 pulgadas"
+              },
+              "disk_3_5_inch": {
+                "type": ["integer", "null"],
+                "description": "Bahías para discos de 3.5 pulgadas"
+              },
+              "disk_2_5_3_5_inch": {
+                "type": ["integer", "null"],
+                "description": "Bahías convertibles 2.5/3.5 pulgadas"
+              },
+              "disk_5_25_inch": {
+                "type": ["integer", "null"],
+                "description": "Bahías para unidades de 5.25 pulgadas"
+              }
+            },
+            "required": ["disk_2_5_inch", "disk_3_5_inch", "disk_2_5_3_5_inch", "disk_5_25_inch"]
+          },
+          "features": {
+            "type": "object",
+            "description": "Características estéticas y funcionales",
+            "properties": {
+              "primary_colors": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "description": "Colores principales del gabinete"
+              },
+              "window": {
+                "type": ["boolean", "null"],
+                "description": "Presencia de ventana lateral"
+              },
+              "dust_filter": {
+                "type": ["boolean", "null"],
+                "description": "Presencia de filtros de polvo"
+              },
+              "cable_management": {
+                "type": ["boolean", "null"],
+                "description": "Características de manejo de cables"
+              },
+              "noise_isolation": {
+                "type": ["boolean", "null"],
+                "description": "Aislamiento acústico"
+              }
+            },
+            "required": ["primary_colors", "window", "dust_filter", "cable_management", "noise_isolation"]
+          }
+        },
+        "required": [
+          "name", "producer", "mpn", "ean", "upc",
+          "dimensions", "compatibility", "fan_support",
+          "radiator_support", "storage_bays", "features"
+        ]
+      }
+    }
+  },
+  "examples": [
+    {
+      "name": "Corsair 4000D Airflow Tempered Glass Midi-Tower - white Window",
+      "producer": "Corsair",
+      "mpn": "CC-9011201-WW",
+      "ean": "0840006621928",
+      "upc": "",
+      "dimensions": {
+        "width": {
+          "value": 230.0,
+          "unit": "mm",
+          "raw_value": "230 mm"
+        },
+        "depth": {
+          "value": 453.0,
+          "unit": "mm",
+          "raw_value": "453 mm"
+        },
+        "height": {
+          "value": 466.0,
+          "unit": "mm",
+          "raw_value": "466 mm"
+        }
+      },
+      "compatibility": {
+        "motherboard": "E-ATX",
+        "power_supply": "ATX",
+        "supported_gpu_length": {
+          "value": 360.0,
+          "unit": "mm",
+          "raw_value": "360 mm"
+        },
+        "supported_cpu_cooler_height": {
+          "value": 170.0,
+          "unit": "mm",
+          "raw_value": "170 mm"
+        }
+      },
+      "fan_support": {
+        "80mm": {
+          "installed": 0,
+          "maximum": 0,
+          "raw_value": "0/0"
+        },
+        "120mm": {
+          "installed": 2,
+          "maximum": 6,
+          "raw_value": "2/6"
+        },
+        "140mm": {
+          "installed": 0,
+          "maximum": 4,
+          "raw_value": "0/4"
+        },
+        "200mm": {
+          "installed": 0,
+          "maximum": 0,
+          "raw_value": "0/0"
+        }
+      },
+      "radiator_support": {
+        "120mm": 1,
+        "140mm": 0,
+        "240mm": 0,
+        "280mm": 1,
+        "360mm": 1
+      },
+      "storage_bays": {
+        "disk_2_5_inch": 2,
+        "disk_3_5_inch": 0,
+        "disk_2_5_3_5_inch": 0,
+        "disk_5_25_inch": null
+      },
+      "features": {
+        "primary_colors": ["white"],
+        "window": true,
+        "dust_filter": true,
+        "cable_management": true,
+        "noise_isolation": false
+      }
+    }
+  ]
+}

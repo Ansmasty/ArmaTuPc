@@ -1,0 +1,150 @@
+{
+  "project": {
+    "name": "Normalizador de Dataset de Componentes PC",
+    "version": "1.0.0",
+    "description": "Sistema completo para normalizar datasets de componentes PC separando valores numéricos de unidades de medida",
+    "created": "2025-07-03",
+    "author": "Sistema de Normalización Inteligente"
+  },
+  "datasets_processed": {
+    "CaseData": {
+      "file": "CaseData.csv",
+      "records": 1358,
+      "output": "CaseData_normalized.json",
+      "key_fields": ["dimensions", "fan_support", "compatibility", "storage_bays"],
+      "calculated_metrics": ["volume", "thermal_capacity", "airflow_potential"]
+    },
+    "CPUCoolerData": {
+      "file": "CPUCoolerData.csv", 
+      "records": 767,
+      "output": "CPUCoolerData_normalized.json",
+      "key_fields": ["height", "tdp", "supported_sockets", "fan_configuration"],
+      "calculated_metrics": ["thermal_factor", "socket_families", "cooler_type"]
+    },
+    "CPUData": {
+      "file": "CPUData.csv",
+      "records": 328, 
+      "output": "CPUData_normalized.json",
+      "key_fields": ["base_clock", "turbo_clock", "cores", "threads", "tdp"],
+      "calculated_metrics": ["performance_score", "efficiency_score", "frequency_boost_ratio", "cpu_category"]
+    }
+  },
+  "normalization_classes": {
+    "Dimension": {
+      "purpose": "Separar valores numéricos de unidades para dimensiones físicas",
+      "example": "230 mm → {value: 230.0, unit: 'mm'}",
+      "use_cases": ["width", "height", "depth", "gpu_length", "cooler_height"]
+    },
+    "Frequency": {
+      "purpose": "Manejar frecuencias de CPU con conversiones automáticas",
+      "example": "3.7 GHz → {value: 3.7, unit: 'GHz', mhz: 3700}",
+      "use_cases": ["base_clock", "turbo_clock", "memory_speed"]
+    },
+    "ThermalDesignPower": {
+      "purpose": "Procesar valores TDP para análisis térmico",
+      "example": "65 W → {value: 65.0, unit: 'W'}",
+      "use_cases": ["cpu_tdp", "cooler_capacity", "thermal_analysis"]
+    },
+    "FanSlots": {
+      "purpose": "Parsear configuración de ventiladores instalados/máximo",
+      "example": "2/6 → {installed: 2, maximum: 6}",
+      "use_cases": ["case_fans", "radiator_support", "airflow_analysis"]
+    },
+    "SocketSupport": {
+      "purpose": "Analizar compatibilidad de sockets con familias Intel/AMD",
+      "example": "1150, AM4 → {intel: ['1150'], amd: ['AM4']}",
+      "use_cases": ["cooler_compatibility", "cpu_matching"]
+    },
+    "IntegratedGPU": {
+      "purpose": "Detectar y categorizar gráficos integrados",
+      "example": "Radeon Vega 7 → {has_igpu: true, model: 'Radeon Vega 7'}",
+      "use_cases": ["cpu_features", "graphics_analysis"]
+    }
+  },
+  "analysis_capabilities": {
+    "mathematical": [
+      "Cálculo automático de volúmenes (ancho × profundidad × altura)",
+      "Conversión de unidades (GHz ↔ MHz, mm ↔ cm)",
+      "Ratios y proporciones (boost ratio, threads per core)",
+      "Eficiencia térmica (performance/TDP)",
+      "Densidad térmica (TDP/volumen)"
+    ],
+    "thermal": [
+      "Capacidad térmica estimada de gabinetes",
+      "Matching automático case-cooler por altura",
+      "Análisis de ventilación y flujo de aire",
+      "Factor térmico de coolers (W/mm)",
+      "Categorización por rangos de TDP"
+    ],
+    "compatibility": [
+      "Detección automática de familias de sockets",
+      "Compatibilidad cruzada entre componentes",
+      "Análisis de clearance y espacio físico",
+      "Matching de factor forma (ATX, mATX, ITX)",
+      "Verificación de límites de altura/longitud"
+    ],
+    "performance": [
+      "Puntuación de rendimiento (threads × frecuencia)",
+      "Categorización automática por rendimiento",
+      "Análisis de eficiencia energética",
+      "Comparación relativa entre productos",
+      "Identificación de outliers y anomalías"
+    ]
+  },
+  "output_formats": {
+    "json": {
+      "standard": "JSON con schema estructurado",
+      "benefits": ["API-ready", "fácil parsing", "compatible con DBs NoSQL"],
+      "structure": "Hierarchical with calculated metrics"
+    }
+  },
+  "scripts_included": {
+    "normalizador_dataset.py": "Script principal que procesa todos los datasets",
+    "analizar_datos.py": "Analizador específico para gabinetes", 
+    "analizar_coolers.py": "Analizador específico para CPU coolers",
+    "analizar_cpus.py": "Analizador específico para CPUs",
+    "analisis_termico_comparativo.py": "Análisis cruzado térmico case-cooler",
+    "resumen_sistema.py": "Resumen completo y demostración de capacidades",
+    "clases.py": "Definiciones de todas las clases de normalización"
+  },
+  "future_enhancements": {
+    "additional_components": [
+      "GPUData (tarjetas gráficas)",
+      "RAMData (memoria)",
+      "MotherboardData (tarjetas madre)", 
+      "PSUData (fuentes de poder)",
+      "HDDData y SSDData (almacenamiento)",
+      "MonitorData (monitores)"
+    ],
+    "advanced_features": [
+      "API REST con endpoints RESTful",
+      "Base de datos relacional/NoSQL",
+      "Machine learning para predicciones",
+      "Dashboard web interactivo", 
+      "Algoritmos de optimización",
+      "Sistema de recomendaciones",
+      "Validación automática de datos",
+      "Detección de anomalías",
+      "Conversión automática de unidades",
+      "Análisis de tendencias de mercado"
+    ]
+  },
+  "usage_examples": {
+    "basic_normalization": "python normalizador_dataset.py",
+    "analyze_cases": "python analizar_datos.py",
+    "analyze_coolers": "python analizar_coolers.py", 
+    "analyze_cpus": "python analizar_cpus.py",
+    "thermal_analysis": "python analisis_termico_comparativo.py",
+    "full_summary": "python resumen_sistema.py"
+  },
+  "data_transformations": {
+    "before": {
+      "example": "'AMD Ryzen 5 5600X', '3.7 GHz', '65 W', '6', '12'",
+      "issues": ["Strings difíciles de analizar", "Unidades mezcladas con valores", "No hay métricas calculadas", "Análisis manual requerido"]
+    },
+    "after": {
+      "example": "{'base_clock': {'value': 3.7, 'unit': 'GHz'}, 'calculated_metrics': {'performance_score': 44400, 'efficiency_score': 683}}",
+      "benefits": ["Valores numéricos separados", "Análisis matemático automático", "Métricas calculadas", "Categorización inteligente"]
+    }
+  }
+}

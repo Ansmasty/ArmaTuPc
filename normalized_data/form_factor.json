@@ -1,0 +1,53 @@
+{
+  "form_factors": [
+    {
+      "nombre": "ATX",
+      "dimensiones_mm": {
+        "ancho": 305,
+        "alto": 244
+      }
+    },
+    {
+      "nombre": "Micro-ATX",
+      "dimensiones_mm": {
+        "ancho": 244,
+        "alto": 244
+      }
+    },
+    {
+      "nombre": "Mini-ITX",
+      "dimensiones_mm": {
+        "ancho": 170,
+        "alto": 170
+      }
+    },
+    {
+      "nombre": "E-ATX",
+      "dimensiones_mm": {
+        "ancho": 305,
+        "alto": 330
+      }
+    },
+    {
+      "nombre": "XL-ATX",
+      "dimensiones_mm": {
+        "ancho": 345,
+        "alto": 262
+      }
+    },
+    {
+      "nombre": "Nano-ITX",
+      "dimensiones_mm": {
+        "ancho": 120,
+        "alto": 120
+      }
+    },
+    {
+      "nombre": "Pico-ITX",
+      "dimensiones_mm": {
+        "ancho": 100,
+        "alto": 72
+      }
+    }
+  ]
+}

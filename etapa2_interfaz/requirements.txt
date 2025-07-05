@@ -1,0 +1,15 @@
+# Requisitos para PC Builder Interface
+# PyQt6 para la interfaz gráfica
+PyQt6>=6.4.0
+
+# Dependencias adicionales para datos y procesamiento
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Matemáticas y gráficos para análisis avanzado
+matplotlib>=3.5.0
+seaborn>=0.11.0
+sympy>=1.9.0
+
+# Opcional: Para mejores gráficos e iconos
+Pillow>=8.3.0

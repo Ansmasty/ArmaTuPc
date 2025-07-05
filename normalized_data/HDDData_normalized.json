@@ -1,0 +1,7412 @@
+[
+  {
+    "name": "HGST Deskstar NAS 0S03661",
+    "producer": "HGST",
+    "mpn": "0S03661",
+    "ean": "0705487193794",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "HGST Deskstar NAS 0S03665",
+    "producer": "HGST",
+    "mpn": "0S03665",
+    "ean": "0705487194036",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "HGST Deskstar NAS 0S03940",
+    "producer": "HGST",
+    "mpn": "0S03940",
+    "ean": "0705487200201",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.7111,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "HGST Deskstar NAS v2 0S03941",
+    "producer": "HGST",
+    "mpn": "0S03941",
+    "ean": "0705487200300",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Toshiba DT01ACA100 1TB 32MB",
+    "producer": "Toshiba",
+    "mpn": "DT01ACA100",
+    "ean": "0608729688839",
+    "upc": "696859078965",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 HDWD110EZSTA 1TB 64MB",
+    "producer": "Toshiba",
+    "mpn": "HDWD110EZSTA",
+    "ean": "4051528202670",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "HGST Ultrastar 7K4000",
+    "producer": "HGST",
+    "mpn": "0F14683",
+    "ean": "8717306631082",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "HGST Ultrastar He6",
+    "producer": "HGST",
+    "mpn": "0F18335",
+    "ean": "0672042149803",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "HGST Ultrastar He8",
+    "producer": "HGST",
+    "mpn": "0F23267",
+    "ean": "8717306633901",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Hitachi HGST Travelstar 5K1000",
+    "producer": "Hitachi HGST",
+    "mpn": "HTS541010A9E680",
+    "ean": "4016138794397",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 8.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Hitachi HGST Travelstar 7K1000",
+    "producer": "Hitachi HGST",
+    "mpn": "HTS721010A9E630",
+    "ean": "0829686002661",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 32.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "mobile_laptop",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Hitachi HGST Ultrastar 7K4000",
+    "producer": "Hitachi HGST",
+    "mpn": "HUS724020ALE640",
+    "ean": "0829686002449",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Archive Hard Drive ST6000AS0002 6TB 5900rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST6000AS0002",
+    "ean": "8592978037819",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "archive_storage",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.0414,
+      "storage_density": "high_density",
+      "reliability_class": "archive_optimized"
+    }
+  },
+  {
+    "name": "Seagate Archive Hard Drive ST8000AS0002 8TB 5900rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST8000AS0002",
+    "ean": "7636490056932",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "archive_storage",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.3885,
+      "storage_density": "high_density",
+      "reliability_class": "archive_optimized"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Compute Hard Drive 2 TB",
+    "producer": "Seagate",
+    "mpn": "ST2000DM008",
+    "ean": "0763649113653",
+    "upc": "763649113653",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Barracuda Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST4000DM000",
+    "ean": "7636490034879",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.6942,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Barracuda Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST1000DM003",
+    "ean": "7636490025914",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST2000DM006",
+    "ean": "0763649110218",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST3000DM008",
+    "ean": "0763649110225",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Barracuda Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST2000DM001",
+    "ean": "7636490026003",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 1 TB",
+    "producer": "Seagate",
+    "mpn": "ST1000DM010",
+    "ean": "0763649098240",
+    "upc": "763649110928",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 1 TB",
+    "producer": "Seagate",
+    "mpn": "ST1000LM048",
+    "ean": "0763649098301",
+    "upc": "763649110980",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 2 TB",
+    "producer": "Seagate",
+    "mpn": "ST2000LM015",
+    "ean": "0763649098318",
+    "upc": "763649110997",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 3 TB",
+    "producer": "Seagate",
+    "mpn": "ST3000LM024",
+    "ean": "0763649078990",
+    "upc": "763649091678",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 3 TB",
+    "producer": "Seagate",
+    "mpn": "ST3000DM007",
+    "ean": "7636490078170",
+    "upc": "763649090855",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 4 TB",
+    "producer": "Seagate",
+    "mpn": "ST4000LM024",
+    "ean": "0763649078983",
+    "upc": "763649091661",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 4 TB",
+    "producer": "Seagate",
+    "mpn": "ST4000DM004",
+    "ean": "0763649094402",
+    "upc": "763649094402",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 5 TB",
+    "producer": "Seagate",
+    "mpn": "ST5000LM000",
+    "ean": "0763649078969",
+    "upc": "00763649078969",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.9481,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 6 TB",
+    "producer": "Seagate",
+    "mpn": "ST6000DM003",
+    "ean": "0763649094426",
+    "upc": "763649094426",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000DM004",
+    "ean": "0763649094419",
+    "upc": "763649094419",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.517,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST4000DM006",
+    "ean": "0763649100783",
+    "upc": "763649114643",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST6000DM004",
+    "ean": "0763649098165",
+    "upc": "763649110843",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST8000DM0004",
+    "ean": "0763649116401",
+    "upc": "763649116401",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive 1 TB",
+    "producer": "Seagate",
+    "mpn": "ST1000LM049",
+    "ean": "0763649115756",
+    "upc": "763649115756",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive 12 TB",
+    "producer": "Seagate",
+    "mpn": "ST12000DM0007",
+    "ean": "0763649103197",
+    "upc": "763649117330",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.7067,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive 14 TB",
+    "producer": "Seagate",
+    "mpn": "ST14000DM001",
+    "ean": "8719706004305",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.9911,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive 2 TB",
+    "producer": "Seagate",
+    "mpn": "ST2000DM009",
+    "ean": "0763649100776",
+    "upc": "763649114636",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive ST10000DM0004",
+    "producer": "Seagate",
+    "mpn": "ST10000DM0004",
+    "ean": "8592978058906",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate BarraCuda Pro Hard Drive ST8000DM005",
+    "producer": "Seagate",
+    "mpn": "ST8000DM005",
+    "ean": "0763649098158",
+    "upc": "763649110836",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Desktop Hard Drive ST3000DM001",
+    "producer": "Seagate",
+    "mpn": "ST3000DM001",
+    "ean": "7636490025938",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Desktop Hard Drive ST5000DM002",
+    "producer": "Seagate",
+    "mpn": "ST5000DM002",
+    "ean": "8592978041731",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.7111,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Desktop Hard Drive ST6000DM001",
+    "producer": "Seagate",
+    "mpn": "ST6000DM001",
+    "ean": "8592978042073",
+    "upc": "00763649075821",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST1000NM0008",
+    "producer": "Seagate",
+    "mpn": "ST1000NM0008",
+    "ean": "0763649098509",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST1000NM0055",
+    "producer": "Seagate",
+    "mpn": "ST1000NM0055",
+    "ean": "7636490069345",
+    "upc": "763649070796",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST1000NX0313",
+    "producer": "Seagate",
+    "mpn": "ST1000NX0313",
+    "ean": "7636490043505",
+    "upc": "763649044957",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST2000NM0033",
+    "producer": "Seagate",
+    "mpn": "ST2000NM0033",
+    "ean": "8592978004613",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST2000NM0055",
+    "producer": "Seagate",
+    "mpn": "ST2000NM0055",
+    "ean": "8592978061999",
+    "upc": "763649070789",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST2000NX0253",
+    "producer": "Seagate",
+    "mpn": "ST2000NX0253",
+    "ean": "8592978040918",
+    "upc": "763649044919",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Capacity ST4000NM0115",
+    "producer": "Seagate",
+    "mpn": "ST4000NM0115",
+    "ean": "8592978070304",
+    "upc": "763649115015",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST4000NM0033",
+    "ean": "7636490028557",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST6000NM0024",
+    "ean": "7636490047893",
+    "upc": "763649049341",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST3000NM0033",
+    "ean": "7636490028571",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise Hard Drive v5",
+    "producer": "Seagate",
+    "mpn": "ST6000NM0115",
+    "ean": "7636490068744",
+    "upc": "763649070192",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 6.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise NAS Hard Drive ST2000VN0001 2TB 7200rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST2000VN0001",
+    "ean": "7636490062636",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise NAS Hard Drive ST4000VN0001 4TB 7200rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST4000VN0001",
+    "ean": "8592978031695",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise NAS Hard Drive ST5000VN0001 5TB 7200rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST5000VN0001",
+    "ean": "7636490062605",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.7111,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise NAS Hard Drive ST6000VN0001 6TB 7200rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST6000VN0001",
+    "ean": "8592978031718",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Enterprise NAS Hard Drive ST8000NE0001 8TB 7200rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST8000NE0001",
+    "ean": "7636490071645",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Exos 7E2 Hard Drive 2 TB",
+    "producer": "Seagate",
+    "mpn": "ST2000NM0008",
+    "ean": "0763649098523",
+    "upc": "763649111284",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos 7E8 Hard Drive 2 TB",
+    "producer": "Seagate",
+    "mpn": "ST2000NM001A",
+    "ean": "8719706015684",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos 7E8 Hard Drive 4 TB",
+    "producer": "Seagate",
+    "mpn": "ST4000NM002A",
+    "ean": "8719706015899",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos 7E8 Hard Drive 6 TB",
+    "producer": "Seagate",
+    "mpn": "ST6000NM021A",
+    "ean": "8719706015141",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos 7E8 Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000NM000A",
+    "ean": "8719706005616",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos E 7E8 Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000NM0055",
+    "ean": "7636490064593",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos X10 Hard Drive 10 TB",
+    "producer": "Seagate",
+    "mpn": "ST10000NM0016",
+    "ean": "7636490069741",
+    "upc": "763649071199",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos X14 Hard Drive 12 TB",
+    "producer": "Seagate",
+    "mpn": "ST12000NM0008",
+    "ean": "8719706007559",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.7067,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos X16 Hard Drive 12 TB",
+    "producer": "Seagate",
+    "mpn": "ST12000NM001G",
+    "ean": "8719706011679",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos X16 Hard Drive 14 TB",
+    "producer": "Seagate",
+    "mpn": "ST14000NM001G",
+    "ean": "0763649124130",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.9911,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos X16 Hard Drive 16 TB",
+    "producer": "Seagate",
+    "mpn": "ST16000NM001G",
+    "ean": "0763649124147",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 16.0,
+        "unit": "TB",
+        "gb_equivalent": 16384.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 2.2756,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Exos X16 Hard Drive 18 TB",
+    "producer": "Seagate",
+    "mpn": "ST18000NM000J",
+    "ean": "8719706020442",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 18.0,
+        "unit": "TB",
+        "gb_equivalent": 18432.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate FireCuda SSHD",
+    "producer": "Seagate",
+    "mpn": "ST2000DX002",
+    "ean": "3660619400379",
+    "upc": "763649110270",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate FireCuda SSHD 1 TB",
+    "producer": "Seagate",
+    "mpn": "ST1000LX015",
+    "ean": "7636490067624",
+    "upc": "763649069073",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate FireCuda SSHD 1 TB",
+    "producer": "Seagate",
+    "mpn": "ST1000DX002",
+    "ean": "0763649110263",
+    "upc": "763649110263",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate FireCuda SSHD 2 TB",
+    "producer": "Seagate",
+    "mpn": "ST2000LX001",
+    "ean": "7636490069840",
+    "upc": "763649071298",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST8000VN0022",
+    "ean": "0763649110874",
+    "upc": "763649110874",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST12000VN0007",
+    "ean": "0763649117347",
+    "upc": "763649117347",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 1 TB",
+    "producer": "Seagate",
+    "mpn": "ST1000VN002",
+    "ean": "8719706002370",
+    "upc": "763649110683",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1736,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 10 TB",
+    "producer": "Seagate",
+    "mpn": "ST10000VN0008",
+    "ean": "0763649121764",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 12 TB",
+    "producer": "Seagate",
+    "mpn": "ST12000VN0008",
+    "ean": "0763649121757",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.7067,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Ironwolf Hard Drive 14 TB",
+    "producer": "Seagate",
+    "mpn": "ST14000VN0008",
+    "ean": "8719706004343",
+    "upc": "763649121740",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.9911,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 16 TB",
+    "producer": "Seagate",
+    "mpn": "ST16000VN001",
+    "ean": "8719706008686",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 16.0,
+        "unit": "TB",
+        "gb_equivalent": 16384.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 2.7769,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 6 TB",
+    "producer": "Seagate",
+    "mpn": "ST6000VN001",
+    "ean": "0763649079416",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 6 TB",
+    "producer": "Seagate",
+    "mpn": "ST6000VN0033",
+    "ean": "8719706003674",
+    "upc": "763649110805",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000VN004",
+    "ean": "0763649125069",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf NAS Hard Drive ST10000VN0004",
+    "producer": "Seagate",
+    "mpn": "ST10000VN0004",
+    "ean": "8592978067694",
+    "upc": "763649089248",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf NAS Hard Drive ST2000VN004",
+    "producer": "Seagate",
+    "mpn": "ST2000VN004",
+    "ean": "8592978061562",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "balanced_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.3471,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf NAS Hard Drive ST3000VN007",
+    "producer": "Seagate",
+    "mpn": "ST3000VN007",
+    "ean": "8592978061548",
+    "upc": "763649110706",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "balanced_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.5207,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf NAS Hard Drive ST4000VN008",
+    "producer": "Seagate",
+    "mpn": "ST4000VN008",
+    "ean": "8592978061531",
+    "upc": "763649110560",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "balanced_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.6942,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf NAS Hard Drive ST6000VN0041",
+    "producer": "Seagate",
+    "mpn": "ST6000VN0041",
+    "ean": "0763649110881",
+    "upc": "763649110881",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST4000NE0025",
+    "ean": "0763649098554",
+    "upc": "763649111314",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST6000NE0023",
+    "ean": "0763649111321",
+    "upc": "763649111321",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST8000NE0004",
+    "ean": "0763649116104",
+    "upc": "763649116104",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST12000NE0007",
+    "ean": "0763649103210",
+    "upc": "763649117354",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 10 TB",
+    "producer": "Seagate",
+    "mpn": "ST10000NE0008",
+    "ean": "0763649121795",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 12 TB",
+    "producer": "Seagate",
+    "mpn": "ST12000NE0008",
+    "ean": "0763649121788",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.7067,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 14 TB",
+    "producer": "Seagate",
+    "mpn": "ST14000NE0008",
+    "ean": "8719706004374",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.9911,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 16 TB",
+    "producer": "Seagate",
+    "mpn": "ST16000NE000",
+    "ean": "8719706008730",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 16.0,
+        "unit": "TB",
+        "gb_equivalent": 16384.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 2.2756,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 4 TB",
+    "producer": "Seagate",
+    "mpn": "ST4000NE001",
+    "ean": "0763649125137",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST6000NE000",
+    "ean": "8719706006026",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000NE001",
+    "ean": "8719706009867",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro NAS Hard Drive ST10000NE0004 10TB 7200rpm 256MB",
+    "producer": "Seagate",
+    "mpn": "ST10000NE0004",
+    "ean": "8592978063610",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro NAS Hard Drive ST2000NE0025 2TB 7200rpm 128MB",
+    "producer": "Seagate",
+    "mpn": "ST2000NE0025",
+    "ean": "0763649111307",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro NAS Hard Drive ST6000NE0021 6TB 7200rpm 256MB",
+    "producer": "Seagate",
+    "mpn": "ST6000NE0021",
+    "ean": "0763649098226",
+    "upc": "763649110904",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate IronWolf Pro NAS Hard Drive ST8000NE0021 8TB 7200rpm 256MB",
+    "producer": "Seagate",
+    "mpn": "ST8000NE0021",
+    "ean": "0763649098233",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate Mobile Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST1000LM035",
+    "ean": "7636490060670",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Mobile Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST2000LM007",
+    "ean": "7636490060656",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate NAS Hard Drive ST2000VN000 2TB 5900rpm 64MB",
+    "producer": "Seagate",
+    "mpn": "ST2000VN000",
+    "ean": "8592978052652",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "balanced_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.3471,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST3000VX010",
+    "ean": "0763649097991",
+    "upc": "763649110676",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST10000VX0004",
+    "ean": "7636490076558",
+    "upc": "763649089231",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive 3 TB",
+    "producer": "Seagate",
+    "mpn": "ST3000VX009",
+    "ean": "8719706002929",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5207,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive 4 TB",
+    "producer": "Seagate",
+    "mpn": "ST4000VX007",
+    "ean": "0763649097953",
+    "upc": "763649110638",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive 6 TB",
+    "producer": "Seagate",
+    "mpn": "ST6000VX001",
+    "ean": "0763649092132",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000VX0022",
+    "ean": "0763649110850",
+    "upc": "763649110850",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Skyhawk Hard Drive 8 TB",
+    "producer": "Seagate",
+    "mpn": "ST8000VX004",
+    "ean": "8719706009805",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive ST1000VX005",
+    "producer": "Seagate",
+    "mpn": "ST1000VX005",
+    "ean": "8592978061524",
+    "upc": "763649110652",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive ST2000VX008",
+    "producer": "Seagate",
+    "mpn": "ST2000VX008",
+    "ean": "8592978061555",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate SkyHawk Hard Drive ST6000VX0023",
+    "producer": "Seagate",
+    "mpn": "ST6000VX0023",
+    "ean": "8592978062361",
+    "upc": "763649110812",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Surveillance Hard Drive",
+    "producer": "Seagate",
+    "mpn": "ST3000VX000",
+    "ean": "7636490030635",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Surveillance Hard Drive ST1000VX000",
+    "producer": "Seagate",
+    "mpn": "ST1000VX000",
+    "ean": "0715663215639",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Surveillance Hard Drive ST1000VX003",
+    "producer": "Seagate",
+    "mpn": "ST1000VX003",
+    "ean": "7636490063039",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1736,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Surveillance Hard Drive ST2000VX000",
+    "producer": "Seagate",
+    "mpn": "ST2000VX000",
+    "ean": "8592978011635",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Surveillance Hard Drive ST4000VX000",
+    "producer": "Seagate",
+    "mpn": "ST4000VX000",
+    "ean": "8592978012670",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.6942,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Surveillance Hard Drive ST8000VX0002",
+    "producer": "Seagate",
+    "mpn": "ST8000VX0002",
+    "ean": "8592978049249",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Seagate Video 3.5 Hard Drive ST2000VM003",
+    "producer": "Seagate",
+    "mpn": "ST2000VM003",
+    "ean": "8592978029258",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5900,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "balanced_performance",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3471,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Toshiba Cloud Hard Drive MC04ACA200E 2TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "MC04ACA200E",
+    "ean": "4949268790857",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba Cloud Hard Drive MC04ACA300E 3TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "MC04ACA300E",
+    "ean": "4053162588240",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba Enterprise MG03SCA300 3TB 64MB SAS",
+    "producer": "Toshiba",
+    "mpn": "MG03SCA300",
+    "ean": "0163120879960",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "nas_enterprise",
+      "performance_class": "standard_performance",
+      "target_market": "enterprise_nas",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "enterprise_grade"
+    }
+  },
+  {
+    "name": "Toshiba N300 HDWN160EZSTA 6TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWN160EZSTA",
+    "ean": "4051528312669",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba N300 HDWN160UZSVA 6TB 128MB Bulk",
+    "producer": "Toshiba",
+    "mpn": "HDWN160UZSVA",
+    "ean": "4051528328257",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba N300 HDWN180EZSTA 8TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWN180EZSTA",
+    "ean": "4051528312652",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba N300 HDWN180UZSVA 8TB 128MB Bulk",
+    "producer": "Toshiba",
+    "mpn": "HDWN180UZSVA",
+    "ean": "4051528328264",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba N300 HDWQ140EZSTA 4TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWQ140EZSTA",
+    "ean": "4051528312676",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba N300 HDWQ140UZSVA 4TB 128MB Bulk",
+    "producer": "Toshiba",
+    "mpn": "HDWQ140UZSVA",
+    "ean": "4051528328240",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 1 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWD110UZSVA",
+    "ean": "4051528216707",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 2 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWD120UZSVA",
+    "ean": "4051528216714",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 3 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWD130UZSVA",
+    "ean": "4051528216721",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 4 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWD240UZSVA",
+    "ean": "4260557511152",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 6 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWD260UZSVA",
+    "ean": "4260557511145",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 HDWD120EZSTA 2TB 64MB",
+    "producer": "Toshiba",
+    "mpn": "HDWD120EZSTA",
+    "ean": "4051528202687",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba P300 HDWD130EZSTA 3TB 64MB",
+    "producer": "Toshiba",
+    "mpn": "HDWD130EZSTA",
+    "ean": "4051528202694",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba SATA 3G, MQ01ABD100",
+    "producer": "Toshiba",
+    "mpn": "MQ01ABD100",
+    "ean": "5051868540295",
+    "upc": "696859079153",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 8.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "low_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba SATA 6G, DT01ACA200, 2 TB",
+    "producer": "Toshiba",
+    "mpn": "DT01ACA200",
+    "ean": "4047999500179",
+    "upc": "696859078972",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 32.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba SATA 6G, DT01ACA300, 3 TB",
+    "producer": "Toshiba",
+    "mpn": "DT01ACA300",
+    "ean": "4047999500186",
+    "upc": "696859078989",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 32.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba SATA 6G, MD04ACA400",
+    "producer": "Toshiba",
+    "mpn": "MD04ACA400",
+    "ean": "5712505477892",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba Surveillance Hard Drive MD03ACA200V 2TB 64MB",
+    "producer": "Toshiba",
+    "mpn": "MD03ACA200V",
+    "ean": "4053162580671",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba Surveillance Hard Drive MD03ACA300V 3TB 64MB",
+    "producer": "Toshiba",
+    "mpn": "MD03ACA300V",
+    "ean": "5054484655619",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.4267,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba Surveillance Hard Drive MD03ACA400V 4TB 64MB",
+    "producer": "Toshiba",
+    "mpn": "MD03ACA400V",
+    "ean": "4053162588271",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 HDWE140EZSTA 4TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWE140EZSTA",
+    "ean": "4051528202700",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 HDWE150EZSTA 5TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWE150EZSTA",
+    "ean": "4051528202717",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.7111,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 HDWE160EZSTA 6TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWE160EZSTA",
+    "ean": "4051528202724",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 HDWF180EZSTA 8TB 128MB",
+    "producer": "Toshiba",
+    "mpn": "HDWF180EZSTA",
+    "ean": "4051528234992",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 HDWF180UZSVA 8TB 128MB Bulk",
+    "producer": "Toshiba",
+    "mpn": "HDWF180UZSVA",
+    "ean": "4051528234985",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 SATA 6G, 4 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWE140UZSVA",
+    "ean": "4051528227307",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "Toshiba X300 SATA 6G, 6 TB",
+    "producer": "Toshiba",
+    "mpn": "HDWE160UZSVA",
+    "ean": "4051528227321",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "standard_consumer"
+    }
+  },
+  {
+    "name": "WD AV-GP WD10EURX",
+    "producer": "Western Digital",
+    "mpn": "WD10EURX",
+    "ean": "0718037781709",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD AV-GP WD20EURX",
+    "producer": "Western Digital",
+    "mpn": "WD20EURX",
+    "ean": "0718037782836",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD AV-GP WD30EURX",
+    "producer": "Western Digital",
+    "mpn": "WD30EURX",
+    "ean": "0718037782874",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD AV-GP WD40EURX",
+    "producer": "Western Digital",
+    "mpn": "WD40EURX",
+    "ean": "0718037820095",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Black WD4004FZWX",
+    "producer": "Western Digital",
+    "mpn": "WD4004FZWX",
+    "ean": "0718037847641",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Black WD6001FZWX",
+    "producer": "Western Digital",
+    "mpn": "WD6001FZWX",
+    "ean": "0718037835983",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Blue SSHD WD40E31X",
+    "producer": "Western Digital",
+    "mpn": "WD40E31X",
+    "ean": "0718037837734",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Blue WD50EZRZ",
+    "producer": "Western Digital",
+    "mpn": "WD50EZRZ",
+    "ean": "0718037840215",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.9481,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Gold WD4002FYYZ",
+    "producer": "Western Digital",
+    "mpn": "WD4002FYYZ",
+    "ean": "8592978055455",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Gold WD8002FRYZ",
+    "producer": "Western Digital",
+    "mpn": "WD8002FRYZ",
+    "ean": "0718037846408",
+    "upc": "718037846408",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple NV WD4NPURX",
+    "producer": "Western Digital",
+    "mpn": "WD4NPURX",
+    "ean": "8592978039394",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple NV WD6NPURX",
+    "producer": "Western Digital",
+    "mpn": "WD6NPURX",
+    "ean": "0718037838366",
+    "upc": "718037838366",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD10PURX",
+    "producer": "Western Digital",
+    "mpn": "WD10PURX",
+    "ean": "0718037823324",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD20PURX",
+    "producer": "Western Digital",
+    "mpn": "WD20PURX",
+    "ean": "0718037823331",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD30PURX",
+    "producer": "Western Digital",
+    "mpn": "WD30PURX",
+    "ean": "0718037823300",
+    "upc": "718037823300",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD40PURX",
+    "producer": "Western Digital",
+    "mpn": "WD40PURX",
+    "ean": "0718037823317",
+    "upc": "718037823317",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD50PURX",
+    "producer": "Western Digital",
+    "mpn": "WD50PURX",
+    "ean": "8592978033682",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.9481,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD60PURX",
+    "producer": "Western Digital",
+    "mpn": "WD60PURX",
+    "ean": "0718037828374",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Purple WD80PUZX",
+    "producer": "Western Digital",
+    "mpn": "WD80PUZX",
+    "ean": "0718037845487",
+    "upc": "718037845487",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.517,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD RE WD1004FBYZ",
+    "producer": "Western Digital",
+    "mpn": "WD1004FBYZ",
+    "ean": "0718037830049",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD RE WD5001FSYZ",
+    "producer": "Western Digital",
+    "mpn": "WD5001FSYZ",
+    "ean": "0718037825779",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.7111,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD RE+ WD5005FRPZ",
+    "producer": "Western Digital",
+    "mpn": "WD5005FRPZ",
+    "ean": "0718037832180",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5760,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "standard",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.8889,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD RE+ WD6005FRPZ",
+    "producer": "Western Digital",
+    "mpn": "WD6005FRPZ",
+    "ean": "0718037832159",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5760,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "standard",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.0667,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Red Pro WD4002FFWX",
+    "producer": "Western Digital",
+    "mpn": "WD4002FFWX",
+    "ean": "0718037845630",
+    "upc": "718037845630",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Red Pro WD6002FFWX",
+    "producer": "Western Digital",
+    "mpn": "WD6002FFWX",
+    "ean": "0718037845647",
+    "upc": "718037845647",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Red Pro WD8001FFWX",
+    "producer": "Western Digital",
+    "mpn": "WD8001FFWX",
+    "ean": "0718037847696",
+    "upc": "718037847696",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "WD Red WD80EFZX",
+    "producer": "Western Digital",
+    "mpn": "WD80EFZX",
+    "ean": "0718037845500",
+    "upc": "718037845500",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.517,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Blue Mobile 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD10SPZX",
+    "ean": "0718037845319",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Blue Mobile 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD20SPZX",
+    "ean": "0718037847405",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Black 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD1003FZEX",
+    "ean": "0718037786469",
+    "upc": "718037786469",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Black 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD2003FZEX",
+    "ean": "0718037810553",
+    "upc": "718037810553",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Black 2,5 Zoll",
+    "producer": "Western Digital",
+    "mpn": "WD10JPLX",
+    "ean": "0718037846729",
+    "upc": "718037846729",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 32.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Black 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD4005FZBX",
+    "ean": "0718037856001",
+    "upc": "00718037856001",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Black 6 TB",
+    "producer": "Western Digital",
+    "mpn": "WD6003FZBX",
+    "ean": "0718037855998",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue",
+    "producer": "Western Digital",
+    "mpn": "WD60EZRZ",
+    "ean": "0718037840192",
+    "upc": "718037840192",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD10EZRZ",
+    "ean": "0718037840147",
+    "upc": "718037840147",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD10EZEX",
+    "ean": "0718037779911",
+    "upc": "718037779911",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD20EZAZ",
+    "ean": "0718037856254",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD20EZRZ",
+    "ean": "0718037840222",
+    "upc": "718037840222",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 2,5 Zoll",
+    "producer": "Western Digital",
+    "mpn": "WD10JPVX",
+    "ean": "0718037800936",
+    "upc": "718037800936",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "2.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 8.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 3 TB",
+    "producer": "Western Digital",
+    "mpn": "WD30EZRZ",
+    "ean": "0718037840154",
+    "upc": "718037840154",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD40EZRZ",
+    "ean": "0718037840161",
+    "upc": "718037840161",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Blue 6 TB",
+    "producer": "Western Digital",
+    "mpn": "WD60EZAZ",
+    "ean": "0718037855684",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD1005FBYZ",
+    "ean": "0718037820132",
+    "upc": "718037820132",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.1422,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 10 TB",
+    "producer": "Western Digital",
+    "mpn": "WD102KRYZ",
+    "ean": "0718037872681",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 12 TB",
+    "producer": "Western Digital",
+    "mpn": "WD121KRYZ",
+    "ean": "0718037854519",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.7067,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 14 TB",
+    "producer": "Western Digital",
+    "mpn": "WD141KRYZ",
+    "ean": "0718037872674",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.9911,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 16 TB",
+    "producer": "Western Digital",
+    "mpn": "WD161KRYZ",
+    "ean": "8592978268565",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 16.0,
+        "unit": "TB",
+        "gb_equivalent": 16384.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD2005FBYZ",
+    "ean": "0718037847924",
+    "upc": "718037847924",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD4003FRYZ",
+    "ean": "0718037858098",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 6 TB",
+    "producer": "Western Digital",
+    "mpn": "WD6003FRYZ",
+    "ean": "0718037855936",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold 8 TB",
+    "producer": "Western Digital",
+    "mpn": "WD8004FRYZ",
+    "ean": "0718037858371",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold, Intellipower",
+    "producer": "Western Digital",
+    "mpn": "WD6002FRYZ",
+    "ean": "0718037845470",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold, Intellipower",
+    "producer": "Western Digital",
+    "mpn": "WD8003FRYZ",
+    "ean": "0718037858104",
+    "upc": "00718037858104",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Gold, Intellipower",
+    "producer": "Western Digital",
+    "mpn": "WD101KRYZ",
+    "ean": "0718037847733",
+    "upc": "718037847733",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Purple 8 TB",
+    "producer": "Western Digital",
+    "mpn": "WD84PURZ",
+    "ean": "0718037887906",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Purple, Intellipower",
+    "producer": "Western Digital",
+    "mpn": "WD100PURZ",
+    "ean": "0718037856087",
+    "upc": "718037856087",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital RE",
+    "producer": "Western Digital",
+    "mpn": "WD2004FBYZ",
+    "ean": "0718037830056",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD10EFRX",
+    "ean": "0718037799650",
+    "upc": "00718037799650",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 1 TB",
+    "producer": "Western Digital",
+    "mpn": "WD10JFCX",
+    "ean": "0718037804149",
+    "upc": "718037804149",
+    "storage_specs": {
+      "capacity": {
+        "value": 1.0,
+        "unit": "TB",
+        "gb_equivalent": 1024.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 16.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.1896,
+      "storage_density": "low_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 10 TB",
+    "producer": "Western Digital",
+    "mpn": "WD101EFAX",
+    "ean": "0718037866758",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 10 TB",
+    "producer": "Western Digital",
+    "mpn": "WD100EFAX",
+    "ean": "0718037847689",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.8963,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 12 TB",
+    "producer": "Western Digital",
+    "mpn": "WD120EFAX",
+    "ean": "0718037866260",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 2.2756,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 14 TB",
+    "producer": "Western Digital",
+    "mpn": "WD140EFFX",
+    "ean": "0718037872841",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 2.6548,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD20EFAX",
+    "ean": "0718037858135",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD20EFRX",
+    "ean": "0718037799667",
+    "upc": "718037799667",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.3793,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 3 TB",
+    "producer": "Western Digital",
+    "mpn": "WD30EFAX",
+    "ean": "0718037861074",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 3 TB",
+    "producer": "Western Digital",
+    "mpn": "WD30EFRX",
+    "ean": "0718037799674",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD40EFAX",
+    "ean": "0718037861036",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD40EFRX",
+    "ean": "0718037810058",
+    "upc": "718037810058",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 0.7585,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 6 TB",
+    "producer": "Western Digital",
+    "mpn": "WD60EFAX",
+    "ean": "0718037860947",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red 8 TB",
+    "producer": "Western Digital",
+    "mpn": "WD80EFAX",
+    "ean": "0718037854694",
+    "upc": "718037854694",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 5400,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "green_storage",
+      "performance_class": "power_efficient",
+      "target_market": "archive_backup",
+      "capacity_per_rpm_ratio": 1.517,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 8 TB",
+    "producer": "Western Digital",
+    "mpn": "WD80EFZZ",
+    "ean": "0718037896755",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 10 TB",
+    "producer": "Western Digital",
+    "mpn": "WD101EFBX",
+    "ean": "0718037886206",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 12 TB",
+    "producer": "Western Digital",
+    "mpn": "WD120EFBX",
+    "ean": "0718037886190",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 14 TB",
+    "producer": "Western Digital",
+    "mpn": "WD140EFGX",
+    "ean": "0718037886183",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD20EFZX",
+    "ean": "0718037884370",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 3 TB",
+    "producer": "Western Digital",
+    "mpn": "WD30EFZX",
+    "ean": "0718037884387",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 3.0,
+        "unit": "TB",
+        "gb_equivalent": 3072.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD40EFZX",
+    "ean": "0718037884394",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 6 TB",
+    "producer": "Western Digital",
+    "mpn": "WD60EFZX",
+    "ean": "0718037821542",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 128.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Plus 8 TB",
+    "producer": "Western Digital",
+    "mpn": "WD80EFBX",
+    "ean": "0718037886213",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 10 TB",
+    "producer": "Western Digital",
+    "mpn": "WD101KFBX",
+    "ean": "0718037847719",
+    "upc": "718037847719",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 10 TB",
+    "producer": "Western Digital",
+    "mpn": "WD102KFBX",
+    "ean": "0718037866796",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 10.0,
+        "unit": "TB",
+        "gb_equivalent": 10240.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.4222,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 12 TB",
+    "producer": "Western Digital",
+    "mpn": "WD121KFBX",
+    "ean": "0718037866246",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 12.0,
+        "unit": "TB",
+        "gb_equivalent": 12288.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.7067,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 14 TB",
+    "producer": "Western Digital",
+    "mpn": "WD141KFGX",
+    "ean": "0718037872858",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 14.0,
+        "unit": "TB",
+        "gb_equivalent": 14336.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 16 TB",
+    "producer": "Western Digital",
+    "mpn": "WD161KFGX",
+    "ean": "0718037877662",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 16.0,
+        "unit": "TB",
+        "gb_equivalent": 16384.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 18 TB",
+    "producer": "Western Digital",
+    "mpn": "WD181KFGX",
+    "ean": "0718037875729",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 18.0,
+        "unit": "TB",
+        "gb_equivalent": 18432.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 512.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "ultra_high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 2 TB",
+    "producer": "Western Digital",
+    "mpn": "WD2002FFSX",
+    "ean": "0718037835570",
+    "upc": "718037835570",
+    "storage_specs": {
+      "capacity": {
+        "value": 2.0,
+        "unit": "TB",
+        "gb_equivalent": 2048.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.2844,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 4 TB",
+    "producer": "Western Digital",
+    "mpn": "WD4003FFBX",
+    "ean": "0718037855967",
+    "upc": "718037855967",
+    "storage_specs": {
+      "capacity": {
+        "value": 4.0,
+        "unit": "TB",
+        "gb_equivalent": 4096.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.5689,
+      "storage_density": "medium_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 6 TB",
+    "producer": "Western Digital",
+    "mpn": "WD6003FFBX",
+    "ean": "0718037855943",
+    "upc": "718037855943",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.8533,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red Pro 8 TB",
+    "producer": "Western Digital",
+    "mpn": "WD8003FFBX",
+    "ean": "0718037858425",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 8.0,
+        "unit": "TB",
+        "gb_equivalent": 8192.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": 256.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "high_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 1.1378,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital Red, Intellipower",
+    "producer": "Western Digital",
+    "mpn": "WD60EFRX",
+    "ean": "0718037827582",
+    "upc": "718037827582",
+    "storage_specs": {
+      "capacity": {
+        "value": 6.0,
+        "unit": "TB",
+        "gb_equivalent": 6144.0
+      },
+      "form_factor": "3.5\""
+    },
+    "performance_specs": {
+      "rpm": null,
+      "cache": {
+        "value": 64.0,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "standard_desktop",
+      "performance_class": "unknown",
+      "target_market": "desktop_general",
+      "capacity_per_rpm_ratio": null,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  },
+  {
+    "name": "Western Digital SE",
+    "producer": "Western Digital",
+    "mpn": "WD5001F9YZ",
+    "ean": "0718037810676",
+    "upc": "",
+    "storage_specs": {
+      "capacity": {
+        "value": 5.0,
+        "unit": "TB",
+        "gb_equivalent": 5120.0
+      },
+      "form_factor": ""
+    },
+    "performance_specs": {
+      "rpm": 7200,
+      "cache": {
+        "value": null,
+        "unit": "MB"
+      }
+    },
+    "calculated_metrics": {
+      "hdd_category": "performance_desktop",
+      "performance_class": "standard_performance",
+      "target_market": "gaming_performance",
+      "capacity_per_rpm_ratio": 0.7111,
+      "storage_density": "high_density",
+      "reliability_class": "consumer_reliable"
+    }
+  }
+]
